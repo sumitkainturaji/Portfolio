@@ -13,14 +13,14 @@ export default function AboutMe() {
           <p className="hero--section--description desc">
             I’m a Computer Science student pursuing my MCA with a specialization
             in AI/ML. I’m passionate about frontend development and enjoy
-            creating dynamic web experiences using Rract JavaScript, HTML, and
+            creating dynamic web experiences using React JavaScript, HTML, and
             CSS. I’m also enthusiastic about exploring AI/ML technologies.
           </p>
           <p className="hero--section--description desc">
             Alongside my academic pursuits, I’ve gained practical experience
             through internships, honing my skills in web development and AI/ML
-            algorithm use. My projects include a weather web application, a quiz
-            management system, and a diabetic prediction system.
+            algorithm use. My projects include a weather web application, a
+            To-do list app, and a diabetic prediction system.
           </p>
           <p className="hero--section--description desc">
             When I’m not coding, I enjoy trading and traveling, which keep me
