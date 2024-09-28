@@ -1,0 +1,68 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./images/html.svg",
+      "title": "HTML"
+    },
+
+    {
+      "id": "2",
+      "src": "./images/css.svg",
+      "title": "CSS & DESIGN"
+    },
+    {
+      "id": "3",
+      "src": "./images/js.png",
+      "title": "JavaScript"
+    },
+    {
+      "id": "4",
+      "src": "./images/react.svg",
+      "title": "React"
+    },
+    {
+      "id": "5",
+      "src": "./images/java.svg",
+      "title": "Java"
+    },
+    {
+      "id": "6",
+      "src": "./images/database.svg",
+      "title": "MySql"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./images/weather.png",
+      "title": "Weather App",
+      "description": "Integrated Yahoo Weather API using RapidAPI for real-time multi-city weather data with JavaScript, HTML, CSS, Bootstrap, and Fetch API for async retrieval and UI design.",
+      "link": "Go to Site",
+      "link-path": "https://weatherappbysumit.netlify.app/",
+      "github-visit": "View in Github",
+      "Github-link": "https://github.com/sumitkainturaji/wheatherapp"
+    },
+
+    {
+      "id": "2",
+      "src": "./images/ecomerce.png",
+      "title": "E-Commerce Site",
+      "description": "React, JavaScript, Tailwind CSS; developed a fully functional e-commerce website that allows users to browse products, add items to their cart, complete purchases, and features user authentication for seamless transactions..",
+      "link": "Go to Site",
+      "link-path": "https://gkshop.netlify.app/",
+      "github-visit": "View in Github",
+      "Github-link": "https://gkshop.netlify.app/"
+    },
+    {
+      "id": "3",
+      "src": "./images/todolist.png",
+      "title": "To-Do List App",
+      "description": " React, JavaScript, Tailwind CSS; designed and developed an intuitive Todo List app for seamless task management with real-time updates and local storage, utilizing React hooks for state management and Tailwind CSS for a modern design..",
+      "link": "Go to Site",
+      "link-path": "https://todolistbysumitkaintura.netlify.app/",
+      "github-visit": "View in Github",
+      "Github-link": "https://github.com/sumitkainturaji/todolist"
+    }
+  ]
+}
